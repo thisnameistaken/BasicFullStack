@@ -6,7 +6,7 @@ You will need MySQL, Python, and NodeJS.
 
 First create a MySQL table with an id column, a user column, a date column, a payment1 column, and payment2 column.
 
-Next use the python script to host apis that contain the sql data. The data will be represented as a JSON that you can use for whatever purpose you want. Make sure to change the login details to suit your database.
+Next start the python script to host apis that contain the sql data. The data will be represented as a JSON that you can use for whatever purpose you want. Make sure to change the login details to suit your database.
 
 There is other data hosted besides the data for the graph. You can view these with curl or in your browser.
 
